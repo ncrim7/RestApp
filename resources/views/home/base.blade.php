@@ -21,14 +21,25 @@
                     @guest
                     <a href="{{route('signup')}}" class="nav-link nav-item">Kayıt Ol</a>
                     <a href="{{route('login')}}" class="nav-link nav-item">Giriş Yap</a>
-
                     @endguest
             </div>
         </div>
     </div>
 
     @section('content')
-
     @show
+
+    <footer class="bg-light text-center text-lg-start mt-5">
+        <div class="container p-4">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="text-muted">Proje kaynak kodlarını GitHub'dan inceleyebilirsiniz: 
+                        <a href="https://github.com/bomb1338/RestApp" class="text-decoration-none text-success">GitHub</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
 </body>
 </html>
