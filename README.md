@@ -76,6 +76,8 @@ Parola: admin
 <img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnd%C3%BCzenle.PNG" width="400px" height="auto">. 
 <img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnekle.PNG" width="400px" height="auto">. 
 
+➤ Kullanım Videosu : [`RestApp`](https://youtu.be/IMqn8BYZmoM)
+
 ➤ Site Linki : [`RestApp`](http://restapp.free.nf/)
 
 ### Katkıda Bulunma
