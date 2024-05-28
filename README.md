@@ -35,9 +35,16 @@ npm install
 ```
 
 ### 3. .env Dosyasını Yapılandırın
-Proje dizininde .env.example dosyasını .env olarak kopyalayın ve gerekli yapılandırmaları yapın.
+Proje dizininde .env.example dosyasını .env olarak kopyalayın, gerekli yapılandırmaları yapın ve phpMyAdmin üzerinden 'restoran_yonetim' adından bir veritabanı oluşturun.
 ```bash
 cp .env.example .env
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=restoran_yonetim
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 ### 4. Uygulama Anahtarını Oluşturun
 ```bash
