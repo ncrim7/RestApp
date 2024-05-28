@@ -7,7 +7,6 @@ RestApp, restoran yönetimi ve yemek siparişlerini yönetmek için oluşturulmu
 - Kategori yönetimi
 - Ürün yönetimi
 - Şifreli giriş ve oturum
-- 
 - Admin paneli
 
 ## Gereksinimler
