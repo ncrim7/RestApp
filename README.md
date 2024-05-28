@@ -68,14 +68,14 @@ Parola: admin
 
 
 ### Ekran Görüntüleri
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Anasayfa.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Giri%C5%9Fyap.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Kay%C4%B1tol.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/adminanasayfa.PNG" width="300px" height="auto">.
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/admingiri%C5%9F.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/kategorid%C3%BCzenle.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnd%C3%BCzenle.PNG" width="300px" height="auto">. 
-<img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnekle.PNG" width="300px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Anasayfa.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Giri%C5%9Fyap.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/Kay%C4%B1tol.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/adminanasayfa.PNG" width="400px" height="auto">.
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/admingiri%C5%9F.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/kategorid%C3%BCzenle.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnd%C3%BCzenle.PNG" width="400px" height="auto">. 
+<img src="https://github.com/bomb1338/RestApp/blob/main/ss/%C3%BCr%C3%BCnekle.PNG" width="400px" height="auto">. 
 
 ### Katkıda Bulunma
 Katkıda bulunmak istiyorsanız, lütfen bir pull request gönderin. Her türlü katkı memnuniyetle karşılanır.
