@@ -21,7 +21,7 @@ RestApp, restoran yönetimi ve yemek siparişlerini yönetmek için oluşturulmu
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone https://github.com/bomb1338/RestApp.git
+git clone https://github.com/ncrim7/RestApp.git
 cd RestApp
 ```
 
